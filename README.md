@@ -2,12 +2,13 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caetano+Rangel;I'm+21+years+old;I'm+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
 
-<div align="center"> 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caetano-rangel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+ 
+### Contact:
+<div align="none"> 
 <a href="https://instagram.com/caetano_rangel" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
 <a href = "mailto:caetanorangel22@gmail.com"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 </div>
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caetano-rangel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Favorites languages:
 ![C++](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
