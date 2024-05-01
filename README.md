@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=008B8B&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Caetano+Rangel;I'm+23+years+old;I'm+from+Brazil;Be+Welcome!)](https://git.io/typing-svg)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=caetano-rangel&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 <div align='center'>
 
 <div align="center">  
